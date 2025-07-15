@@ -14,7 +14,7 @@ A simple task management application built with **React**. This project helps us
 
 ## 📸 Screenshot
 
-![Task Manager Screenshot](./Screenshot%202025-07-15%20at%2011.31.47%E2%80%AFPM.png)
+![Task Manager Screenshot]('/Users/arpitgupta/Desktop/untitled folder/chennai/frontend/react-assignment/src/components/ui/Screenshot 2025-07-15 at 11.37.26 PM.png')
 
 ## 🛠️ Technologies Used
 
